@@ -1,0 +1,88 @@
+.header{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 70px;
+    line-height: 70px;
+    background-color:rgba(0,0,0, 0);
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+.header .header-logo {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    margin-left: 30px;
+}
+.header .header-menu{
+    float: right;
+    margin: auto;
+    
+}
+.header-menu a {
+    margin-right: 15px;
+    color: #ffffff;
+}
+.header .header-menu a:hover {
+    color: #3498db;
+}
+.banner{
+    margin-top: -20px;
+}
+.banner .banner-image {
+position: relative;
+width: 100%;
+display: inline;
+}
+.banner .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+}
+.banner .banner-content h1,
+.banner .banner-content h2 {
+    color: #fff;
+}
+.about .about-single-element .icone {
+    font-size: 1000px;
+    text-align: center;
+}
+ .about.about-single-element {
+     text-align: center;
+ }
+ .about .about-single-element p {
+     text-align: left;
+     margin-top: 20px;
+ }
+ .button is-link {
+background-color: blue; 
+padding-top: 20px;
+padding-right: 10px;}
+#man{
+    width: 500px;
+    height: 300px; padding-left: 20px;
+}
+marquee
+{
+width: 600px ;
+height : 310px; 
+}
+
+h2{
+    margin-left: auto;
+
+    font-style: oblique;
+    font-weight: 10px;
+}
+#nb{
+    color: #fff;
+
+}
+    
+    
+
+ 
+
+/*css-toronto*/

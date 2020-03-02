@@ -1,0 +1,116 @@
+
+.header{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 70px;
+    line-height: 70px;
+    background-color:rgba(0,0,0, 0);
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+.header .header-logo {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+.header .header-menu{
+    float: left;
+    margin-right: 30px;
+}
+.header-menu a {
+    margin-right: 15px;
+    color: #ffffff;
+}
+.header .header-menu a:hover {
+    color: #3498db;
+}
+#titre{
+    text-align: center;
+    background-color: black;
+}
+#img1{
+    display: inline-block;
+    width: 100%;
+}
+.banner .banner-image {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.banner .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+}
+.texte{ 
+    border: 1px dashed;
+    font-size: 20px;
+}
+#TRT-2{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.img{
+    width: 740px;
+    height: 250px;
+}
+.flot{
+    float: left;
+}
+.tr{
+    text-align: center;
+    background-color: thistle;
+}
+.vdi{
+    width: 100%;
+}
+html, body {
+    margin: 0%;
+
+    display: table;
+    height: 100%;
+    width: 100%; 
+}
+.container {
+    height: auto;
+    width: 100%;
+    display: inline;
+}
+footer {
+    display: table-row;
+    height: 1px;
+    background-color:black;
+}
+#TRT2{
+    color: white;
+}
+#TR3{
+    float: right;
+}
+#TRT-3{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#pr{
+    border: 1px dashed;
+    font-size: 20px;
+}
+#mrc{
+    width: 100%;
+    display: inline-block;
+    height: 300px;
+}
+*{
+    font-family: sans-serif;
+}
+
+
+
+

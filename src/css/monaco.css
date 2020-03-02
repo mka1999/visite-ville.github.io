@@ -1,0 +1,121 @@
+
+.header{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 70px;
+    line-height: 70px;
+    background-color:rgba(0,0,0, 0);
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+.header .header-logo {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+.header .header-menu{
+    float: left;
+    margin-right: 30px;
+}
+.header-menu a {
+    margin-right: 15px;
+    color: #ffffff;
+}
+.header .header-menu a:hover {
+    color: #3498db;
+}
+#titre{
+    text-align: center;
+    background-color: black;
+}
+#img1{
+    display: inline-block;
+    width: 100%;
+}
+.banner .banner-image {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.banner .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+}
+#p1{
+    border: 2px dashed;
+    font-size: 20px;
+    background-color: darkgrey;
+}
+.img1{
+    width: 672px;
+    height: 300px;
+}
+.trt{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.flot{
+    float: left;
+}
+.trt1{
+    text-align: center;
+    background-color: grey;
+}
+#img1{
+    width: 672px;
+    height: 150px;
+    float: left;
+}
+#img2{
+    width: 672px;
+    height: 300px;
+}
+#img3{
+    width: 672px;
+    height: 200px
+}
+.img3{
+    width: 445px;
+    height: 300px;
+}
+#fn{
+    width: 100%;
+    display: inline;
+    height: 300px;
+}
+html, body {
+    margin: 0%;
+    display: table;
+    height: 100%;
+    width: 100%; 
+}
+.container {
+    height: auto;
+    width: 100%;
+    display: inline;
+}
+
+footer {
+    display: table-row;
+    height: 1px;
+    background-color: black;
+    display: inline;
+    width: 100%;
+    
+}
+#TRT2{
+    color: white;
+}
+#TR3{
+    float: right;
+}
+*{
+    font-family: sans-serif;
+}
